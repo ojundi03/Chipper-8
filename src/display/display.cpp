@@ -5,7 +5,7 @@ namespace chipper8
 {
     Display::Display() {}
 
-    void chipper8::Display::init()
+    void Display::init()
     {
         std::cout << "Display Initialised" << std::endl;
     }
