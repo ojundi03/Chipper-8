@@ -9,11 +9,7 @@ int main(int, char **)
     chipper8::CPU cpu;
     chipper8::Display display;
 
-    display.init();
+    // display.init();
 
-    while (1)
-    {
-        uint16_t instruction = cpu.fetch();
-        cpu.decode(instruction);
-    }
+    cpu.cycle();
 }
