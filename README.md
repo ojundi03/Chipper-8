@@ -9,6 +9,7 @@
 - [corax89's chip8-test-rom](https://github.com/corax89/chip8-test-rom)
 - [r/EmuDev](https://reddit.com/r/EmuDev)
 - [Emulation Development Discord (#chip-8 channel)](https://discord.com/invite/7nuaqZ2)
+- [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#memmap)
 ---
 # :)
 
