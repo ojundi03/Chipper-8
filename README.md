@@ -79,7 +79,7 @@ Flickering will happen (to redraw, erase from screen first then draw again).
 Use Stack or Array.
 Used to call and return from subroutines / functions. (NO OTHER PURPOSE, addresses saved there as a result). 16-bit numbers (technically only 12-bit).
 Variable can be used outside emulated memory.
-Either limit to 16 2-byte entries (or keep unlimited). Shouldn't matter as most Chio-8 programs won't overflow stack.
+Either limit to 16 2-byte entries (or keep unlimited). Shouldn't matter as most Chip-8 programs won't overflow stack.
 
 ## Timers
 
