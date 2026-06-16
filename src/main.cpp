@@ -9,7 +9,5 @@ int main(int, char **)
     chipper8::CPU cpu;
     chipper8::Display display;
 
-    // display.init();
-
     cpu.cycle();
 }

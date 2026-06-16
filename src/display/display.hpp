@@ -6,6 +6,5 @@ namespace chipper8
     {
     public:
         Display();
-        void init();
     };
 }
